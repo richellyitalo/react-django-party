@@ -2,57 +2,117 @@
 
 /*! dynamic exports */
 
+/*! export ACCESSIBILITY [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export ALL_ICONS_IN_ALL_CONTEXTS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export ARROWS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export AUDIO_VIDEO [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export AsyncMode [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export AsyncMode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .AsyncMode */
+/*! export AsyncMode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .AsyncMode */
+
+/*! export BRANDS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export BUSINESS [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export BrowserRouter [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export CHESS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export CODE [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export COLORS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export COMMUNICATION [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export COMPONENT_CONTEXT_SPECIFIC_ICONS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export COMPUTERS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export CURRENCY [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export Children [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export Children [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .Children */
+/*! export Children [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .Children */
 
 /*! export Component [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export Component [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .Component */
+/*! export Component [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .Component */
 
 /*! export ConcurrentMode [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export ConcurrentMode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .ConcurrentMode */
+/*! export ConcurrentMode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .ConcurrentMode */
 
 /*! export ContextConsumer [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export ContextConsumer [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .ContextConsumer */
+/*! export ContextConsumer [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .ContextConsumer */
 
 /*! export ContextProvider [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export ContextProvider [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .ContextProvider */
+/*! export ContextProvider [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .ContextProvider */
+
+/*! export DATE_TIME [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export DESIGN [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export DIRECTIONAL_TRANSITIONS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export EDITORS [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export Element [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export Element [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .Element */
+/*! export Element [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .Element */
+
+/*! export FILES [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export FLOATS [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export ForwardRef [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export ForwardRef [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .ForwardRef */
+/*! export ForwardRef [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .ForwardRef */
 
 /*! export Fragment [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export Fragment [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .Fragment */
+/*! export Fragment [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .Fragment */
 
-/*! export Fragment [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .Fragment */
+/*! export Fragment [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .Fragment */
+
+/*! export GENDERS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export HANDS_GESTURES [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export HEALTH [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export HashRouter [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export ICONS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export ICONS_AND_ALIASES [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export ICON_ALIASES [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export IMAGES [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export INTERFACES [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export LOGISTICS [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export Lazy [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export Lazy [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .Lazy */
+/*! export Lazy [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .Lazy */
 
 /*! export Link [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export MAPS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export MEDICAL [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export Memo [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export Memo [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .Memo */
+/*! export Memo [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .Memo */
 
 /*! export MemoryRouter [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -60,15 +120,19 @@
 
 /*! export NavLink [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export OBJECTS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export PAYMENTS_SHOPPING [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export Portal [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export Portal [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .Portal */
+/*! export Portal [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .Portal */
 
 /*! export Profiler [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export Profiler [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .Profiler */
+/*! export Profiler [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .Profiler */
 
-/*! export Profiler [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .Profiler */
+/*! export Profiler [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .Profiler */
 
 /*! export Prompt [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -76,11 +140,17 @@
 
 /*! export PureComponent [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export PureComponent [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .PureComponent */
+/*! export PureComponent [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .PureComponent */
 
 /*! export Redirect [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export Redirect [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .Redirect */
+
+/*! export Ref [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export RefFindNode [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export RefForward [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export Route [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -90,25 +160,53 @@
 
 /*! export Router [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .Router */
 
+/*! export SHAPES [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export SIZES [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export SPINNERS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export SPORTS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export STATIC_TRANSITIONS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export STATUS [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export StaticRouter [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export StaticRouter [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .StaticRouter */
 
 /*! export StrictMode [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export StrictMode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .StrictMode */
+/*! export StrictMode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .StrictMode */
 
-/*! export StrictMode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .StrictMode */
+/*! export StrictMode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .StrictMode */
 
 /*! export Suspense [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export Suspense [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .Suspense */
+/*! export Suspense [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .Suspense */
 
-/*! export Suspense [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .Suspense */
+/*! export Suspense [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .Suspense */
 
 /*! export Switch [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export Switch [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .Switch */
+
+/*! export TEXT_ALIGNMENTS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export TRANSITIONS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export USERS_PEOPLE [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export VEHICLES [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export VERTICAL_ALIGNMENTS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export VISIBILITY [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export WIDTHS [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export WRITING [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export __HistoryContext [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -116,29 +214,55 @@
 
 /*! export __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.production.min.js .__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED */
+/*! export __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.development.js .__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED */
 
-/*! export __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED */
+/*! export __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED */
 
 /*! export __esModule [not provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export __esModule [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export __interactionsRef [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export __interactionsRef [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler-tracing.development.js .__interactionsRef */
+
+/*! export __subscriberRef [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export __subscriberRef [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler-tracing.development.js .__subscriberRef */
+
 /*! export cloneElement [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export cloneElement [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .cloneElement */
+/*! export cloneElement [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .cloneElement */
+
+/*! export collectionShorthand [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export contentShorthand [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export createBrowserHistory [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export createContext [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export createContext [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .createContext */
+/*! export createContext [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .createContext */
 
 /*! export createElement [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export createElement [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .createElement */
+/*! export createElement [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .createElement */
 
 /*! export createFactory [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export createFactory [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .createFactory */
+/*! export createFactory [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .createFactory */
+
+/*! export createHTMLDivision [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export createHTMLIframe [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export createHTMLImage [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export createHTMLInput [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export createHTMLLabel [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export createHTMLParagraph [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export createHashHistory [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -150,97 +274,133 @@
 
 /*! export createPortal [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export createPortal [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.production.min.js .createPortal */
+/*! export createPortal [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.development.js .createPortal */
 
 /*! export createRef [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export createRef [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .createRef */
+/*! export createRef [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .createRef */
+
+/*! export createShorthand [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export createShorthandFactory [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export default [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export demand [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export deprecate [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export disallow [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export domNode [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export every [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export findByType [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export findDOMNode [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export findDOMNode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.production.min.js .findDOMNode */
+/*! export findDOMNode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.development.js .findDOMNode */
 
 /*! export flushSync [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export flushSync [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.production.min.js .flushSync */
+/*! export flushSync [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.development.js .flushSync */
 
 /*! export forwardRef [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export forwardRef [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .forwardRef */
+/*! export forwardRef [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .forwardRef */
 
 /*! export generatePath [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export generatePath [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .generatePath */
 
+/*! export givenProps [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export handleRef [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export htmlImageProps [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export htmlInputAttrs [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export htmlInputEvents [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export htmlInputProps [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export hydrate [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export hydrate [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.production.min.js .hydrate */
+/*! export hydrate [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.development.js .hydrate */
+
+/*! export instance [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export isAsyncMode [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export isAsyncMode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isAsyncMode */
+/*! export isAsyncMode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .isAsyncMode */
 
 /*! export isConcurrentMode [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export isConcurrentMode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isConcurrentMode */
+/*! export isConcurrentMode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .isConcurrentMode */
 
 /*! export isContextConsumer [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export isContextConsumer [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isContextConsumer */
+/*! export isContextConsumer [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .isContextConsumer */
 
 /*! export isContextProvider [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export isContextProvider [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isContextProvider */
+/*! export isContextProvider [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .isContextProvider */
 
 /*! export isElement [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export isElement [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isElement */
+/*! export isElement [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .isElement */
 
 /*! export isForwardRef [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export isForwardRef [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isForwardRef */
+/*! export isForwardRef [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .isForwardRef */
 
 /*! export isFragment [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export isFragment [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isFragment */
+/*! export isFragment [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .isFragment */
 
 /*! export isLazy [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export isLazy [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isLazy */
+/*! export isLazy [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .isLazy */
 
 /*! export isMemo [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export isMemo [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isMemo */
+/*! export isMemo [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .isMemo */
+
+/*! export isNil [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export isPortal [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export isPortal [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isPortal */
+/*! export isPortal [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .isPortal */
 
 /*! export isProfiler [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export isProfiler [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isProfiler */
+/*! export isProfiler [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .isProfiler */
+
+/*! export isRefObject [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export isStrictMode [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export isStrictMode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isStrictMode */
+/*! export isStrictMode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .isStrictMode */
 
 /*! export isSuspense [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export isSuspense [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isSuspense */
+/*! export isSuspense [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .isSuspense */
 
 /*! export isValidElement [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export isValidElement [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .isValidElement */
+/*! export isValidElement [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .isValidElement */
 
 /*! export isValidElementType [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export isValidElementType [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isValidElementType */
+/*! export isValidElementType [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .isValidElementType */
+
+/*! export itemShorthand [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export lazy [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export lazy [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .lazy */
+/*! export lazy [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .lazy */
 
 /*! export locationsAreEqual [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -250,125 +410,169 @@
 
 /*! export memo [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export memo [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .memo */
+/*! export memo [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .memo */
+
+/*! export multipleProp [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export numberToWord [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export numberToWordMap [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export parsePath [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export partitionHTMLProps [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export ref [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export refObject [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export render [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export render [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.production.min.js .render */
+/*! export render [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.development.js .render */
+
+/*! export someByType [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export suggest [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export typeOf [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export typeOf [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .typeOf */
+/*! export typeOf [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.development.js .typeOf */
 
 /*! export unmountComponentAtNode [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unmountComponentAtNode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.production.min.js .unmountComponentAtNode */
+/*! export unmountComponentAtNode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.development.js .unmountComponentAtNode */
 
 /*! export unstable_IdlePriority [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_IdlePriority [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_IdlePriority */
+/*! export unstable_IdlePriority [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_IdlePriority */
 
 /*! export unstable_ImmediatePriority [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_ImmediatePriority [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_ImmediatePriority */
+/*! export unstable_ImmediatePriority [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_ImmediatePriority */
 
 /*! export unstable_LowPriority [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_LowPriority [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_LowPriority */
+/*! export unstable_LowPriority [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_LowPriority */
 
 /*! export unstable_NormalPriority [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_NormalPriority [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_NormalPriority */
+/*! export unstable_NormalPriority [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_NormalPriority */
 
 /*! export unstable_Profiling [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_Profiling [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_Profiling */
+/*! export unstable_Profiling [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_Profiling */
 
 /*! export unstable_UserBlockingPriority [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_UserBlockingPriority [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_UserBlockingPriority */
+/*! export unstable_UserBlockingPriority [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_UserBlockingPriority */
 
 /*! export unstable_batchedUpdates [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_batchedUpdates [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.production.min.js .unstable_batchedUpdates */
+/*! export unstable_batchedUpdates [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.development.js .unstable_batchedUpdates */
 
 /*! export unstable_cancelCallback [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_cancelCallback [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_cancelCallback */
+/*! export unstable_cancelCallback [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_cancelCallback */
+
+/*! export unstable_clear [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export unstable_clear [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler-tracing.development.js .unstable_clear */
 
 /*! export unstable_continueExecution [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_continueExecution [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_continueExecution */
+/*! export unstable_continueExecution [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_continueExecution */
 
 /*! export unstable_createPortal [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_createPortal [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.production.min.js .unstable_createPortal */
+/*! export unstable_createPortal [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.development.js .unstable_createPortal */
 
 /*! export unstable_forceFrameRate [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_forceFrameRate [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_forceFrameRate */
+/*! export unstable_forceFrameRate [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_forceFrameRate */
+
+/*! export unstable_getCurrent [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export unstable_getCurrent [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler-tracing.development.js .unstable_getCurrent */
 
 /*! export unstable_getCurrentPriorityLevel [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_getCurrentPriorityLevel [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_getCurrentPriorityLevel */
+/*! export unstable_getCurrentPriorityLevel [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_getCurrentPriorityLevel */
 
 /*! export unstable_getFirstCallbackNode [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_getFirstCallbackNode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_getFirstCallbackNode */
+/*! export unstable_getFirstCallbackNode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_getFirstCallbackNode */
+
+/*! export unstable_getThreadID [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export unstable_getThreadID [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler-tracing.development.js .unstable_getThreadID */
 
 /*! export unstable_next [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_next [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_next */
+/*! export unstable_next [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_next */
 
 /*! export unstable_now [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_now [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_now */
+/*! export unstable_now [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_now */
 
 /*! export unstable_pauseExecution [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_pauseExecution [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_pauseExecution */
+/*! export unstable_pauseExecution [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_pauseExecution */
 
 /*! export unstable_renderSubtreeIntoContainer [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_renderSubtreeIntoContainer [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.production.min.js .unstable_renderSubtreeIntoContainer */
+/*! export unstable_renderSubtreeIntoContainer [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.development.js .unstable_renderSubtreeIntoContainer */
 
 /*! export unstable_requestPaint [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_requestPaint [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_requestPaint */
+/*! export unstable_requestPaint [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_requestPaint */
 
 /*! export unstable_runWithPriority [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_runWithPriority [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_runWithPriority */
+/*! export unstable_runWithPriority [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_runWithPriority */
 
 /*! export unstable_scheduleCallback [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_scheduleCallback [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_scheduleCallback */
+/*! export unstable_scheduleCallback [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_scheduleCallback */
 
 /*! export unstable_shouldYield [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_shouldYield [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_shouldYield */
+/*! export unstable_shouldYield [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_shouldYield */
+
+/*! export unstable_subscribe [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export unstable_subscribe [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler-tracing.development.js .unstable_subscribe */
+
+/*! export unstable_trace [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export unstable_trace [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler-tracing.development.js .unstable_trace */
+
+/*! export unstable_unsubscribe [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export unstable_unsubscribe [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler-tracing.development.js .unstable_unsubscribe */
+
+/*! export unstable_wrap [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export unstable_wrap [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler-tracing.development.js .unstable_wrap */
 
 /*! export unstable_wrapCallback [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export unstable_wrapCallback [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_wrapCallback */
+/*! export unstable_wrapCallback [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.development.js .unstable_wrapCallback */
 
 /*! export useCallback [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export useCallback [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .useCallback */
+/*! export useCallback [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .useCallback */
 
 /*! export useContext [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export useContext [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .useContext */
+/*! export useContext [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .useContext */
 
 /*! export useDebugValue [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export useDebugValue [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .useDebugValue */
+/*! export useDebugValue [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .useDebugValue */
 
 /*! export useEffect [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export useEffect [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .useEffect */
+/*! export useEffect [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .useEffect */
 
 /*! export useHistory [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -376,11 +580,15 @@
 
 /*! export useImperativeHandle [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export useImperativeHandle [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .useImperativeHandle */
+/*! export useImperativeHandle [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .useImperativeHandle */
+
+/*! export useKeyOnly [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export useKeyOrValueAndKey [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export useLayoutEffect [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export useLayoutEffect [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .useLayoutEffect */
+/*! export useLayoutEffect [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .useLayoutEffect */
 
 /*! export useLocation [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -388,7 +596,9 @@
 
 /*! export useMemo [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export useMemo [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .useMemo */
+/*! export useMemo [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .useMemo */
+
+/*! export useMultipleProp [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export useParams [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -396,11 +606,11 @@
 
 /*! export useReducer [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export useReducer [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .useReducer */
+/*! export useReducer [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .useReducer */
 
 /*! export useRef [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export useRef [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .useRef */
+/*! export useRef [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .useRef */
 
 /*! export useRouteMatch [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -408,19 +618,29 @@
 
 /*! export useState [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export useState [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .useState */
+/*! export useState [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .useState */
+
+/*! export useTextAlignProp [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export useValueAndKey [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export useVerticalAlignProp [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export useWidthProp [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export version [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export version [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.production.min.js .version */
+/*! export version [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.development.js .version */
 
-/*! export version [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .version */
+/*! export version [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.development.js .version */
 
 /*! export withRouter [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export withRouter [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .withRouter */
 
 /*! exports [not provided] [no usage info] */
+
+/*! flagged exports */
 
 /*! namespace exports */
 
@@ -432,11 +652,19 @@
 
 /*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
 
+/*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.g, __webpack_require__.d, __webpack_require__.* */
+
 /*! runtime requirements: __webpack_require__, __webpack_exports__, __webpack_require__.d, __webpack_require__.n, __webpack_require__.r, __webpack_require__.* */
 
 /*! runtime requirements: __webpack_require__, __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
 
+/*! runtime requirements: __webpack_require__, __webpack_exports__, module */
+
+/*! runtime requirements: __webpack_require__, __webpack_require__.n, __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+
 /*! runtime requirements: __webpack_require__, __webpack_require__.n, __webpack_exports__, __webpack_require__.r, __webpack_require__.g, __webpack_require__.d, __webpack_require__.* */
+
+/*! runtime requirements: __webpack_require__, __webpack_require__.n, __webpack_exports__, __webpack_require__.r, module.id, __webpack_require__.d, __webpack_require__.*, module */
 
 /*! runtime requirements: __webpack_require__, __webpack_require__.n, __webpack_require__.r, __webpack_exports__, __webpack_require__.d, __webpack_require__.* */
 
@@ -449,6 +677,10 @@
 /*! runtime requirements: module */
 
 /*! runtime requirements: module, __webpack_require__ */
+
+/*! runtime requirements: module, __webpack_require__.nc, __webpack_require__.* */
+
+/*! runtime requirements: module.loaded, module.id, module, __webpack_require__.hmd, __webpack_require__, __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
 
 /*! unknown exports (runtime-defined) */
 
@@ -464,13 +696,97 @@
   !*** ./src/components/App.js ***!
   \*******************************/
 
+/*!*********************************!*\
+  !*** ./src/components/App.scss ***!
+  \*********************************/
+
+/*!*************************************!*\
+  !*** ./node_modules/exenv/index.js ***!
+  \*************************************/
+
 /*!*************************************!*\
   !*** ./node_modules/react/index.js ***!
   \*************************************/
 
+/*!**************************************!*\
+  !*** ./node_modules/lodash-es/eq.js ***!
+  \**************************************/
+
 /*!***************************************!*\
   !*** ./node_modules/isarray/index.js ***!
   \***************************************/
+
+/*!***************************************!*\
+  !*** ./node_modules/lodash-es/get.js ***!
+  \***************************************/
+
+/*!***************************************!*\
+  !*** ./node_modules/lodash-es/has.js ***!
+  \***************************************/
+
+/*!***************************************!*\
+  !*** ./node_modules/lodash-es/map.js ***!
+  \***************************************/
+
+/*!***************************************!*\
+  !*** ./node_modules/lodash-es/min.js ***!
+  \***************************************/
+
+/*!***************************************!*\
+  !*** ./node_modules/lodash-es/set.js ***!
+  \***************************************/
+
+/*!***************************************!*\
+  !*** ./node_modules/lodash-es/sum.js ***!
+  \***************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/lodash-es/_Map.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/lodash-es/_Set.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/lodash-es/find.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/lodash-es/head.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/lodash-es/keys.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/lodash-es/last.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/lodash-es/noop.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/lodash-es/pick.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/lodash-es/some.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/lodash-es/take.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/lodash-es/trim.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/lodash-es/uniq.js ***!
+  \****************************************/
 
 /*!****************************************!*\
   !*** ./node_modules/react-is/index.js ***!
@@ -485,6 +801,22 @@
   \****************************************/
 
 /*!*****************************************!*\
+  !*** ./node_modules/lodash-es/_Hash.js ***!
+  \*****************************************/
+
+/*!*****************************************!*\
+  !*** ./node_modules/lodash-es/_root.js ***!
+  \*****************************************/
+
+/*!*****************************************!*\
+  !*** ./node_modules/lodash-es/hasIn.js ***!
+  \*****************************************/
+
+/*!*****************************************!*\
+  !*** ./node_modules/lodash-es/isNil.js ***!
+  \*****************************************/
+
+/*!*****************************************!*\
   !*** ./node_modules/react-dom/index.js ***!
   \*****************************************/
 
@@ -493,8 +825,200 @@
   \*****************************************/
 
 /*!******************************************!*\
+  !*** ./node_modules/clsx/dist/clsx.m.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/lodash-es/_Stack.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/lodash-es/_apply.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/lodash-es/_isKey.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/lodash-es/_toKey.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/lodash-es/filter.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/lodash-es/invoke.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/lodash-es/sortBy.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/lodash-es/values.js ***!
+  \******************************************/
+
+/*!******************************************!*\
   !*** ./node_modules/prop-types/index.js ***!
   \******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/lodash-es/_Symbol.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/lodash-es/_baseLt.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/lodash-es/_getTag.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/lodash-es/_parent.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/lodash-es/flatten.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/lodash-es/forEach.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/lodash-es/inRange.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/lodash-es/isArray.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/lodash-es/isEmpty.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/lodash-es/memoize.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/lodash-es/without.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/scheduler/tracing.js ***!
+  \*******************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/_Promise.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/_WeakMap.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/_baseFor.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/_baseGet.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/_baseHas.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/_baseMap.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/_baseSet.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/_baseSum.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/_hasPath.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/_hashGet.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/_hashHas.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/_hashSet.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/_isIndex.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/_overArg.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/constant.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/identity.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/includes.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/isBuffer.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/isLength.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/isNumber.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/isObject.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/isString.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/isSymbol.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/property.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/toFinite.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/toNumber.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/lodash-es/toString.js ***!
+  \********************************************/
 
 /*!********************************************!*\
   !*** ./src/pages/CreatePage/CreatePage.js ***!
@@ -505,40 +1029,656 @@
   \*********************************************/
 
 /*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_DataView.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_MapCache.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_SetCache.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_arrayMap.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_baseEach.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_baseKeys.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_basePick.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_baseRest.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_baseSome.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_baseUniq.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_cacheHas.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_castPath.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_flatRest.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_getValue.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_isMasked.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_nodeUtil.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_overRest.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_shortOut.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_stackGet.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_stackHas.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_stackSet.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/_toSource.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/findIndex.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/isBoolean.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/stubArray.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/stubFalse.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/lodash-es/toInteger.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
   !*** ./node_modules/object-assign/index.js ***!
   \*********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/_ListCache.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/_arrayEach.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/_arrayPush.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/_arraySome.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/_baseClamp.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/_baseHasIn.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/_baseIsNaN.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/_baseSlice.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/_baseTimes.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/_baseUnary.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/_castSlice.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/_createSet.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/_getNative.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/_getRawTag.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/_hashClear.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/_isKeyable.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/difference.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/isFunction.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/lodash-es/startsWith.js ***!
+  \**********************************************/
 
 /*!**********************************************!*\
   !*** ./node_modules/path-to-regexp/index.js ***!
   \**********************************************/
 
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_Uint8Array.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_baseFilter.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_baseForOwn.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_baseGetTag.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_baseInvoke.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_basePickBy.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_baseSortBy.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_baseValues.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_coreJsData.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_createFind.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_equalByTag.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_freeGlobal.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_getAllKeys.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_getMapData.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_getSymbols.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_hasUnicode.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_hashDelete.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_mapToArray.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_nativeKeys.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_setToArray.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/_stackClear.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/isArguments.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/isArrayLike.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/lodash-es/isUndefined.js ***!
+  \***********************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_arrayFilter.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_assignValue.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_baseFlatten.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_baseInRange.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_baseIndexOf.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_baseIsEqual.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_baseIsMatch.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_baseMatches.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_baseOrderBy.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_equalArrays.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_isPrototype.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_mapCacheGet.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_mapCacheHas.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_mapCacheSet.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_setCacheAdd.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_setCacheHas.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_setToString.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/_stackDelete.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/intersection.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/isObjectLike.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/lodash-es/isTypedArray.js ***!
+  \************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/lodash-es/_asciiToArray.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/lodash-es/_assocIndexOf.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/lodash-es/_baseExtremum.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/lodash-es/_baseIsNative.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/lodash-es/_baseIteratee.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/lodash-es/_baseProperty.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/lodash-es/_baseToString.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/lodash-es/_castFunction.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/lodash-es/_equalObjects.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/lodash-es/_getMatchData.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/lodash-es/_getPrototype.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/lodash-es/_listCacheGet.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/lodash-es/_listCacheHas.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/lodash-es/_listCacheSet.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/lodash-es/_nativeCreate.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/lodash-es/_stringToPath.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/lodash-es/isPlainObject.js ***!
+  \*************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/lodash-es/_arrayIncludes.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/lodash-es/_arrayLikeKeys.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/lodash-es/_baseFindIndex.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/lodash-es/_charsEndIndex.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/lodash-es/_createBaseFor.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/lodash-es/_isFlattenable.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/lodash-es/_mapCacheClear.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/lodash-es/_memoizeCapped.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/lodash-es/_strictIndexOf.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/lodash-es/_stringToArray.js ***!
+  \**************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/lodash-es/_baseDifference.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/lodash-es/_baseGetAllKeys.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/lodash-es/_createBaseEach.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/lodash-es/_defineProperty.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/lodash-es/_isIterateeCall.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/lodash-es/_listCacheClear.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/lodash-es/_mapCacheDelete.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/lodash-es/_objectToString.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/lodash-es/_unicodeToArray.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/prop-types/checkPropTypes.js ***!
+  \***************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/lodash-es/_baseAssignValue.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/lodash-es/_baseIsArguments.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/lodash-es/_baseIsEqualDeep.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/lodash-es/_baseSetToString.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/lodash-es/_charsStartIndex.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/lodash-es/_compareMultiple.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/lodash-es/_listCacheDelete.js ***!
+  \****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/api.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/lodash-es/_baseIntersection.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/lodash-es/_baseIsTypedArray.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/lodash-es/_basePropertyDeep.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/lodash-es/_compareAscending.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/lodash-es/isArrayLikeObject.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/react/cjs/react.development.js ***!
+  \*****************************************************/
+
 /*!*****************************************************!*\
   !*** ./node_modules/value-equal/esm/value-equal.js ***!
   \*****************************************************/
+
+/*!******************************************************!*\
+  !*** ./node_modules/keyboard-key/src/keyboardKey.js ***!
+  \******************************************************/
+
+/*!******************************************************!*\
+  !*** ./node_modules/lodash-es/_arrayIncludesWith.js ***!
+  \******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./node_modules/lodash-es/_isStrictComparable.js ***!
+  \*******************************************************/
 
 /*!*******************************************************!*\
   !*** ./node_modules/react-router/esm/react-router.js ***!
   \*******************************************************/
 
+/*!*******************************************************!*\
+  !*** ./node_modules/semantic-ui-css/semantic.min.css ***!
+  \*******************************************************/
+
 /*!********************************************************!*\
-  !*** ./node_modules/react/cjs/react.production.min.js ***!
+  !*** ./node_modules/css-loader/dist/runtime/getUrl.js ***!
   \********************************************************/
+
+/*!********************************************************!*\
+  !*** ./node_modules/lodash-es/_baseMatchesProperty.js ***!
+  \********************************************************/
+
+/*!********************************************************!*\
+  !*** ./node_modules/lodash-es/_castArrayLikeObject.js ***!
+  \********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/react-is/cjs/react-is.development.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/lib/SUI.js ***!
+  \***********************************************************/
 
 /*!************************************************************!*\
   !*** ./node_modules/@babel/runtime/helpers/esm/extends.js ***!
   \************************************************************/
 
-/*!*************************************************************!*\
-  !*** ./node_modules/prop-types/factoryWithThrowingShims.js ***!
-  \*************************************************************/
+/*!************************************************************!*\
+  !*** ./node_modules/lodash-es/_matchesStrictComparable.js ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/prop-types/factoryWithTypeCheckers.js ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/tiny-warning/dist/tiny-warning.esm.js ***!
+  \************************************************************/
 
 /*!*************************************************************!*\
   !*** ./node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
   \*************************************************************/
 
-/*!**************************************************************!*\
-  !*** ./node_modules/react-is/cjs/react-is.production.min.js ***!
-  \**************************************************************/
+/*!*************************************************************!*\
+  !*** ./node_modules/react-dom/cjs/react-dom.development.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./node_modules/scheduler/cjs/scheduler.development.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/lib/leven.js ***!
+  \*************************************************************/
 
 /*!***************************************************************!*\
   !*** ./node_modules/react-router-dom/esm/react-router-dom.js ***!
@@ -549,29 +1689,261 @@
   \***************************************************************/
 
 /*!****************************************************************!*\
-  !*** ./node_modules/react-dom/cjs/react-dom.production.min.js ***!
-  \****************************************************************/
-
-/*!****************************************************************!*\
-  !*** ./node_modules/scheduler/cjs/scheduler.production.min.js ***!
-  \****************************************************************/
-
-/*!****************************************************************!*\
   !*** ./node_modules/tiny-invariant/dist/tiny-invariant.esm.js ***!
   \****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/lib/factories.js ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/lib/isBrowser.js ***!
+  \*****************************************************************/
 
 /*!******************************************************************!*\
   !*** ./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js ***!
   \******************************************************************/
 
 /*!******************************************************************!*\
+  !*** ./node_modules/@semantic-ui-react/event-stack/lib/index.js ***!
+  \******************************************************************/
+
+/*!******************************************************************!*\
   !*** ./node_modules/mini-create-react-context/dist/esm/index.js ***!
   \******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/@fluentui/react-component-ref/dist/es/Ref.js ***!
+  \*******************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/lib/numberToWord.js ***!
+  \********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/@fluentui/react-component-ref/dist/es/utils.js ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/scheduler/cjs/scheduler-tracing.development.js ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/lib/childrenUtils.js ***!
+  \*********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/addons/Radio/Radio.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/elements/Icon/Icon.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/lib/getElementType.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/lib/htmlPropsUtils.js ***!
+  \**********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/lib/customPropTypes.js ***!
+  \***********************************************************************/
+
+/*!************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/addons/Portal/Portal.js ***!
+  \************************************************************************/
+
+/*!************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/elements/Image/Image.js ***!
+  \************************************************************************/
+
+/*!************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/elements/Label/Label.js ***!
+  \************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/collections/Grid/Grid.js ***!
+  \*************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/lib/classNameBuilders.js ***!
+  \*************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/lib/getUnhandledProps.js ***!
+  \*************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/modules/Dimmer/Dimmer.js ***!
+  \*************************************************************************/
+
+/*!**************************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js ***!
+  \**************************************************************************/
+
+/*!**************************************************************************!*\
+  !*** ./node_modules/@fluentui/react-component-ref/dist/es/RefForward.js ***!
+  \**************************************************************************/
+
+/*!**************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/elements/Header/Header.js ***!
+  \**************************************************************************/
+
+/*!***************************************************************************!*\
+  !*** ./node_modules/@fluentui/react-component-ref/dist/es/RefFindNode.js ***!
+  \***************************************************************************/
+
+/*!***************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/elements/Icon/IconGroup.js ***!
+  \***************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./node_modules/semantic-ui-css/themes/default/assets/fonts/icons.eot ***!
+  \****************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./node_modules/semantic-ui-css/themes/default/assets/fonts/icons.svg ***!
+  \****************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./node_modules/semantic-ui-css/themes/default/assets/fonts/icons.ttf ***!
+  \****************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/collections/Grid/GridRow.js ***!
+  \****************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/lib/doesNodeContainClick.js ***!
+  \****************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js ***!
+  \****************************************************************************/
+
+/*!*****************************************************************************!*\
+  !*** ./node_modules/semantic-ui-css/themes/default/assets/fonts/icons.woff ***!
+  \*****************************************************************************/
+
+/*!*****************************************************************************!*\
+  !*** ./node_modules/semantic-ui-css/themes/default/assets/images/flags.png ***!
+  \*****************************************************************************/
+
+/*!*****************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/addons/Portal/PortalInner.js ***!
+  \*****************************************************************************/
+
+/*!*****************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/elements/Image/ImageGroup.js ***!
+  \*****************************************************************************/
+
+/*!*****************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/elements/Label/LabelGroup.js ***!
+  \*****************************************************************************/
+
+/*!*****************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/modules/Checkbox/Checkbox.js ***!
+  \*****************************************************************************/
+
+/*!******************************************************************************!*\
+  !*** ./node_modules/semantic-ui-css/themes/default/assets/fonts/icons.woff2 ***!
+  \******************************************************************************/
+
+/*!******************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/elements/Label/LabelDetail.js ***!
+  \******************************************************************************/
+
+/*!******************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/modules/Dimmer/DimmerInner.js ***!
+  \******************************************************************************/
+
+/*!*******************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/antd/dist/antd.css ***!
+  \*******************************************************************************/
+
+/*!*******************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/collections/Grid/GridColumn.js ***!
+  \*******************************************************************************/
 
 /*!*********************************************************************************!*\
   !*** ./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js ***!
   \*********************************************************************************/
 
+/*!*********************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/elements/Header/HeaderContent.js ***!
+  \*********************************************************************************/
+
+/*!*********************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/modules/Dimmer/DimmerDimmable.js ***!
+  \*********************************************************************************/
+
 /*!**********************************************************************************!*\
   !*** ./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js ***!
   \**********************************************************************************/
+
+/*!**********************************************************************************!*\
+  !*** ./node_modules/semantic-ui-css/themes/default/assets/fonts/brand-icons.eot ***!
+  \**********************************************************************************/
+
+/*!**********************************************************************************!*\
+  !*** ./node_modules/semantic-ui-css/themes/default/assets/fonts/brand-icons.svg ***!
+  \**********************************************************************************/
+
+/*!**********************************************************************************!*\
+  !*** ./node_modules/semantic-ui-css/themes/default/assets/fonts/brand-icons.ttf ***!
+  \**********************************************************************************/
+
+/*!***********************************************************************************!*\
+  !*** ./node_modules/semantic-ui-css/themes/default/assets/fonts/brand-icons.woff ***!
+  \***********************************************************************************/
+
+/*!***********************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/elements/Header/HeaderSubheader.js ***!
+  \***********************************************************************************/
+
+/*!************************************************************************************!*\
+  !*** ./node_modules/semantic-ui-css/themes/default/assets/fonts/brand-icons.woff2 ***!
+  \************************************************************************************/
+
+/*!************************************************************************************!*\
+  !*** ./node_modules/semantic-ui-css/themes/default/assets/fonts/outline-icons.eot ***!
+  \************************************************************************************/
+
+/*!************************************************************************************!*\
+  !*** ./node_modules/semantic-ui-css/themes/default/assets/fonts/outline-icons.svg ***!
+  \************************************************************************************/
+
+/*!************************************************************************************!*\
+  !*** ./node_modules/semantic-ui-css/themes/default/assets/fonts/outline-icons.ttf ***!
+  \************************************************************************************/
+
+/*!*************************************************************************************!*\
+  !*** ./node_modules/semantic-ui-css/themes/default/assets/fonts/outline-icons.woff ***!
+  \*************************************************************************************/
+
+/*!*************************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/lib/ModernAutoControlledComponent.js ***!
+  \*************************************************************************************/
+
+/*!**************************************************************************************!*\
+  !*** ./node_modules/semantic-ui-css/themes/default/assets/fonts/outline-icons.woff2 ***!
+  \**************************************************************************************/
+
+/*!***************************************************************************************!*\
+  !*** ./node_modules/semantic-ui-react/dist/es/addons/Portal/utils/validateTrigger.js ***!
+  \***************************************************************************************/
+
+/*!****************************************************************************************!*\
+  !*** ./node_modules/@semantic-ui-react/event-stack/lib/cjs/event-stack.development.js ***!
+  \****************************************************************************************/
+
+/*!*********************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/semantic-ui-css/semantic.min.css ***!
+  \*********************************************************************************************/
+
+/*!******************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/components/App.scss ***!
+  \******************************************************************************************************************************************/

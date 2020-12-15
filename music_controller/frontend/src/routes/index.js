@@ -8,8 +8,8 @@ import CreatePage from '../pages/CreatePage/CreatePage';
 const routes = () => (
   <Switch>
     <Route exact path="/" component={HomePage} />
-    <Route path="/join" component={JoinPage} />
-    <Route path="/create" component={CreatePage} />
+    <Route exact path="/join" component={JoinPage} />
+    <Route exact path="/create" component={CreatePage} />
   </Switch>
 );
 

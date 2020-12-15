@@ -16,6 +16,28 @@ module.exports = {
           loader: 'babel-loader',
         },
       },
+      {
+        test: /\.css$/i,
+        use: ['style-loader', 'css-loader'],
+      },
+      {
+        test: /\.s[ac]ss$/i,
+        use: [
+          'style-loader',
+          'css-loader',
+          {
+            loader: 'sass-loader',
+            options: {
+              // Prefer `dart-sass`
+              implementation: require('sass'),
+            },
+          },
+        ],
+      },
+      {
+        test: /\.(jpg|jpeg|png|woff|woff2|eot|ttf|svg)$/,
+        loader: 'url-loader',
+      },
     ],
   },
   optimization: {
@@ -25,8 +47,9 @@ module.exports = {
     new webpack.DefinePlugin({
       'process.env': {
         // This has effect on the react lib size
-        NODE_ENV: JSON.stringify('production'),
+        NODE_ENV: JSON.stringify('development'),
       },
     }),
   ],
+  // cache: false
 };

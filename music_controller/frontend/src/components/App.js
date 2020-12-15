@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import { BrowserRouter } from 'react-router-dom';
+import { Grid } from 'semantic-ui-react';
 import Routes from '../routes';
+import 'semantic-ui-css/semantic.min.css'
+import './App.scss';
 
 export default class App extends Component {
   constructor(props) {
@@ -10,11 +13,13 @@ export default class App extends Component {
   render() {
     return (
       <BrowserRouter>
-        <div class="app">
-          <h1>Application</h1>
-
+        <div className="app">
           <div className="app__container">
-            <Routes />
+            <Grid centered>
+              <Grid.Column width={8}>
+                <Routes />
+              </Grid.Column>
+            </Grid>
           </div>
         </div>
       </BrowserRouter>

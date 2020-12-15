@@ -5,9 +5,11 @@ export default class HomePage extends Component {
   render () {
     return (
       <div>
-        <h1>Home page.</h1>
+        <h1>Menu</h1>
         <p>
           <Link to="/join">Ir para Join</Link>
+          <br/>
+          <Link to="/create">Ir para Create</Link>
         </p>
       </div>
     )
