@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Grid, Header, Card, Label } from 'semantic-ui-react';
+import { Grid, Card, Label } from 'semantic-ui-react';
 import Loader from '@/components/Loader/Loader';
 import api from '@/services/api';
 
@@ -22,8 +22,11 @@ export default class RoomView extends Component {
 
   getRoom = async (e) => {
     try {
-      const res = await api.get('/get-room', { code: this.state.roomCode })
-      console.log(res)
+      const res = await api.get('/get-room', {
+        params: {
+          code: this.state.roomCode
+        }
+      })
     } catch (err) {
       console.error(err)
     } finally {
