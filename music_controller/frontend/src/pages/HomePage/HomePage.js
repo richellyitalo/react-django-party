@@ -1,17 +1,18 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
+import  { Container, Button } from 'semantic-ui-react';
+
 export default class HomePage extends Component {
   render () {
     return (
-      <div>
+      <Container>
         <h1>Menu</h1>
         <p>
-          <Link to="/join">Ir para Join</Link>
-          <br/>
-          <Link to="/create">Ir para Create</Link>
+          <Button as={Link} to="/join" primary>Logar numa sala</Button>
+          <Button as={Link} to="/create" secondary>Criar uma página</Button>
         </p>
-      </div>
+      </Container>
     )
   }
 }
