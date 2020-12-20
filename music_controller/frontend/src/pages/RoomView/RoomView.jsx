@@ -22,13 +22,20 @@ export default class RoomView extends Component {
 
   getRoom = async (e) => {
     try {
-      const res = await api.get('/get-room', {
+      const { data } = await api.get('/get-room/', {
         params: {
           code: this.state.roomCode
         }
+      });
+
+      this.setState({
+        guestCanPause: data.guest_can_pause,
+        isHost: data.is_host,
+        votesToSkip: data.votes_to_skip
       })
     } catch (err) {
       console.error(err)
+      alert('Something wrong')
     } finally {
       this.setState({ loading: false })
     }

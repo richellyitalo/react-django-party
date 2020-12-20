@@ -27,6 +27,10 @@ export default class CreatePage extends Component {
       guest_can_pause: guestCanPause,
       votes_to_skip: votesToSkip
     });
+
+    const { code } = response.data
+
+    this.props.history.push(`/room/${code}`);
   }
 
   render () {
