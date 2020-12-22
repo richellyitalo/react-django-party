@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import { Grid, Header, Radio, Input, Button } from 'semantic-ui-react';
+import { Grid, Header, Radio, Input, Button, Icon } from 'semantic-ui-react';
+import { Link } from 'react-router-dom';
 import api from '../../services/api';
 
 const { Column } = Grid;
@@ -41,6 +42,11 @@ export default class CreatePage extends Component {
         <Header size="small" textAlign="center"
           style={{ marginTop: 30 }}
         >
+          <Button
+            negative
+            as={Link}
+            to="/"
+          ><Icon name="long arrow alternate left"></Icon></Button>
           Create a Room
         </Header>
 

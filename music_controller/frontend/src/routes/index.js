@@ -2,7 +2,7 @@ import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 
 import HomePage from '@/pages/HomePage/HomePage';
-import JoinPage from '@/pages/JoinPage/JoinPage';
+import JoinPage from '@/pages/JoinPage/JoinPage.jsx';
 import CreatePage from '@/pages/CreatePage/CreatePage';
 import RoomView from '@/pages/RoomView/RoomView';
 
