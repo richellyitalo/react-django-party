@@ -1,6 +1,7 @@
 from rest_framework import generics, status
 from rest_framework.views import APIView
 from rest_framework.response import Response
+from django.http import JsonResponse
 
 from .models import Room
 from .serializers import RoomSerializer, CreateRoomSerializer
@@ -82,3 +83,13 @@ class CreateRoomView(APIView):
             request.session['room_code'] = room.code
 
         return Response(RoomSerializer(room).data, status.HTTP_201_CREATED)
+
+
+class UserInRoom(APIView):
+    def get(self, request, format=None):
+        if not request.session.exists(request.session.session_key):
+            request.session.create()
+        payload = {
+            'code': request.session.get('room_code')
+        }
+        return Response(payload)

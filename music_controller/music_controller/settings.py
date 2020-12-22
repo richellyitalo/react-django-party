@@ -124,4 +124,4 @@ STATIC_URL = '/static/'
 
 
 # Customs
-APPEND_SLASH=False
+APPEND_SLASH=True
