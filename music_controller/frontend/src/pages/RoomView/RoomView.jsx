@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Grid, Card, Label } from 'semantic-ui-react';
+import { Grid, Card, Label, Button, Icon } from 'semantic-ui-react';
 import Loader from '@/components/Loader/Loader';
 import api from '@/services/api';
 
@@ -34,11 +34,16 @@ export default class RoomView extends Component {
         votesToSkip: data.votes_to_skip
       })
     } catch (err) {
-      console.error(err)
-      alert('Something wrong')
+      this.props.history.push('/');
     } finally {
       this.setState({ loading: false })
     }
+  }
+
+  handleLeaveClick = async () => {
+    await api.post('/leave-room/')
+    this.setState({code: null})
+    this.props.history.push('/')
   }
 
   render () {
@@ -75,6 +80,14 @@ export default class RoomView extends Component {
               </Card.Content>
             </Card>
           </Grid.Row>
+
+          <Grid.Row centered>
+            <Button to="/create" negative onClick={this.handleLeaveClick}>
+              <Icon name="sign-out"></Icon>
+                Sair da página
+              </Button>
+          </Grid.Row>
+
         </Grid>
       </>
     );

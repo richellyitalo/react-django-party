@@ -89,7 +89,25 @@ class UserInRoom(APIView):
     def get(self, request, format=None):
         if not request.session.exists(request.session.session_key):
             request.session.create()
+        session_code = request.session.get('room_code')
+        code = None
+        if (Room.objects.filter(code=session_code).exists()):
+            code = session_code
         payload = {
-            'code': request.session.get('room_code')
+            'code': code
         }
-        return Response(payload)
+        return Response(payload, status=status.HTTP_200_OK)
+
+class LeaveRoom(APIView):
+    def post(self, request, format=None):
+        if 'room_code' in request.session:
+            request.session.pop('room_code')
+            host_id = request.session.session_key
+            queryset = Room.objects.filter(host=host_id)
+            if queryset.exists():
+                room = queryset[0]
+                room.delete()
+
+        return Response({'detail': 'Você deixou a sala.'}, status=status.HTTP_200_OK)
+
+

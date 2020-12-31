@@ -10,10 +10,10 @@ export default class HomePage extends Component {
     roomCode: null
   }
 
-  async componentDidMount() {
+  async componentDidMount () {
     const res = await api.get('user-in-room/')
 
-    this.setState({roomCode: res.data.code})
+    this.setState({ roomCode: res.data.code })
   }
 
   render () {
@@ -28,7 +28,7 @@ export default class HomePage extends Component {
               <Icon name="sign-in"></Icon>
             Logar numa sala
           </Button>
-            <Button as={Link} to="/create" positive>
+          <Button as={Link} to="/create" positive>
               <Icon name="sign-out"></Icon>
             Criar uma página
           </Button>
