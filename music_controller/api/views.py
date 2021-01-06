@@ -4,7 +4,12 @@ from rest_framework.response import Response
 from django.http import JsonResponse
 
 from .models import Room
-from .serializers import RoomSerializer, CreateRoomSerializer
+from .serializers import RoomSerializer, CreateRoomSerializer, UpdateRoomSerializer
+
+
+def create_session_if_not_exists(session):
+    if not session.exists(session.session_key):
+        session.create()
 
 
 class RoomView(generics.ListAPIView):
@@ -21,8 +26,8 @@ class JoinRoomView(APIView):
 
     def post(self, request, format=None):
         code = request.data.get(self.param_lookup)
-        if not request.session.exists(request.session.session_key):
-            request.session.create()
+
+        create_session_if_not_exists(request.session)
 
         if code != None:
             room = Room.objects.filter(code=code)
@@ -64,8 +69,7 @@ class CreateRoomView(APIView):
         guest_can_pause = serializer.data['guest_can_pause']
         votes_to_skip = serializer.data['votes_to_skip']
 
-        if not request.session.exists(request.session.session_key):
-            request.session.create()
+        create_session_if_not_exists(request.session)
         host = request.session.session_key
 
         queryset = Room.objects.filter(host=host)
@@ -87,8 +91,8 @@ class CreateRoomView(APIView):
 
 class UserInRoom(APIView):
     def get(self, request, format=None):
-        if not request.session.exists(request.session.session_key):
-            request.session.create()
+
+        create_session_if_not_exists(request.session)
         session_code = request.session.get('room_code')
         code = None
         if (Room.objects.filter(code=session_code).exists()):
@@ -97,6 +101,7 @@ class UserInRoom(APIView):
             'code': code
         }
         return Response(payload, status=status.HTTP_200_OK)
+
 
 class LeaveRoom(APIView):
     def post(self, request, format=None):
@@ -108,6 +113,43 @@ class LeaveRoom(APIView):
                 room = queryset[0]
                 room.delete()
 
-        return Response({'detail': 'Você deixou a sala.'}, status=status.HTTP_200_OK)
+        return Response({'detail': 'You leave the room.'}, status=status.HTTP_200_OK)
 
 
+class UpdateRoom(APIView):
+    serializer_class = UpdateRoomSerializer
+
+    def patch(self, request, format=None):
+        create_session_if_not_exists(request.session)
+
+        serializer = self.serializer_class(data=request.data)
+
+        votes_to_skip = request.data.get('votes_to_skip')
+        guest_can_pause = request.data.get('guest_can_pause')
+        code = request.data.get('code')
+        user_id = request.session.session_key
+
+        """
+        Validations
+        """
+        if not serializer.is_valid():
+            return Response({'detail': serializer.errors})
+
+        queryset = Room.objects.filter(code=code)
+        if not queryset.exists():
+            return Response({'detail': 'Room not exists'}, status=status.HTTP_404_NOT_FOUND)
+
+        room = queryset[0]
+        if room.host != user_id:
+            return Response({'detail': 'Room not found'}, status=status.HTTP_403_FORBIDDEN)
+
+        """
+        Update data
+        """
+        room.votes_to_skip = votes_to_skip
+        room.guest_can_pause = guest_can_pause
+        room.save(update_fields=['votes_to_skip', 'guest_can_pause'])
+        payload = {
+            'detail': 'Data updated', 'data': {'room': RoomSerializer(room).data}
+        }
+        return Response(payload, status=status.HTTP_400_BAD_REQUEST)
